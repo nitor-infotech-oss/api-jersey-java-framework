@@ -1,0 +1,26 @@
+{
+"verifyPostsWithId":{
+		"id":"1"
+	},
+	
+"verifyPostsCanBeAdded":{
+		"body":{
+	    "title": "foo",
+	    "body": "bar",
+	    "userId": 1
+	  }
+	},
+	
+"verifyPostsCanBeUpdated" :{
+	"id":"1",
+	"body":{
+	    "title": "foo",
+	    "body": "bar",
+	    "userId": 1
+	  }
+},
+"verifyPostsCanBeDeleted":{
+		"id":"1"
+	}
+
+}

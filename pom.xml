@@ -95,6 +95,8 @@
 		<groupId>J-Dux</groupId>
 	<artifactId>J-Dux</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+			<scope>system</scope>
+			<systemPath>${basedir}/lib/J-Dux-0.0.1-SNAPSHOT.jar</systemPath>
 		</dependency>
   </dependencies>
 </project>
